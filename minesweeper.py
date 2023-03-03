@@ -4,7 +4,7 @@
 #
 # John Diaz january 2023 Base on 12 beginner Python projects - Coding Course FreeCodeCamp.org
 # TO DO List:
-#
+# Mejorar debug file
 #
 
 import numpy as np
